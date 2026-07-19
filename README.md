@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Syeda%20Muskan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20GenAI%20%26%20Multi-Agent%20Systems%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Syeda%20Muskan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ML%20Engineer%20and%20GenAI%20Agent%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A63F5&center=true&vCenter=true&width=650&lines=Building+Multi-Agent+AI+Systems+%F0%9F%A4%96;Azure+AI+%2B+RAG+%2B+LLM+Orchestration;Predictive+ML+Models+for+Real-World+Problems;Turning+Hackathon+Ideas+Into+Shipped+Products" alt="Typing SVG" />
